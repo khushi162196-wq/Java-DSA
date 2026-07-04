@@ -109,4 +109,12 @@
 |  |
 | ------- |
 | [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/khushi162196-wq/Java-DSA/tree/master/2817-minimum-absolute-difference-between-elements-with-constraint) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/khushi162196-wq/Java-DSA/tree/master/0203-remove-linked-list-elements) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/khushi162196-wq/Java-DSA/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
