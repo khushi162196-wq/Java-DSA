@@ -5,10 +5,12 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/khushi162196-wq/Java-DSA/tree/master/0001-two-sum) |
+| [0209-minimum-size-subarray-sum](https://github.com/khushi162196-wq/Java-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [3620-network-recovery-pathways](https://github.com/khushi162196-wq/Java-DSA/tree/master/3620-network-recovery-pathways) |
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/khushi162196-wq/Java-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [3620-network-recovery-pathways](https://github.com/khushi162196-wq/Java-DSA/tree/master/3620-network-recovery-pathways) |
 ## Dynamic Programming
 |  |
@@ -47,4 +49,12 @@
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/khushi162196-wq/Java-DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/khushi162196-wq/Java-DSA/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/khushi162196-wq/Java-DSA/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
