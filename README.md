@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/khushi162196-wq/Java-DSA/tree/master/0001-two-sum) |
 | [0209-minimum-size-subarray-sum](https://github.com/khushi162196-wq/Java-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0212-word-search-ii](https://github.com/khushi162196-wq/Java-DSA/tree/master/0212-word-search-ii) |
+| [0213-house-robber-ii](https://github.com/khushi162196-wq/Java-DSA/tree/master/0213-house-robber-ii) |
 | [3620-network-recovery-pathways](https://github.com/khushi162196-wq/Java-DSA/tree/master/3620-network-recovery-pathways) |
 ## Binary Search
 |  |
@@ -16,6 +17,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0213-house-robber-ii](https://github.com/khushi162196-wq/Java-DSA/tree/master/0213-house-robber-ii) |
 | [3620-network-recovery-pathways](https://github.com/khushi162196-wq/Java-DSA/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory
 |  |
