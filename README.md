@@ -77,6 +77,7 @@
 | [0214-shortest-palindrome](https://github.com/khushi162196-wq/Java-DSA/tree/master/0214-shortest-palindrome) |
 | [0257-binary-tree-paths](https://github.com/khushi162196-wq/Java-DSA/tree/master/0257-binary-tree-paths) |
 | [0301-remove-invalid-parentheses](https://github.com/khushi162196-wq/Java-DSA/tree/master/0301-remove-invalid-parentheses) |
+| [0306-additive-number](https://github.com/khushi162196-wq/Java-DSA/tree/master/0306-additive-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -84,6 +85,7 @@
 | [0216-combination-sum-iii](https://github.com/khushi162196-wq/Java-DSA/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/khushi162196-wq/Java-DSA/tree/master/0257-binary-tree-paths) |
 | [0301-remove-invalid-parentheses](https://github.com/khushi162196-wq/Java-DSA/tree/master/0301-remove-invalid-parentheses) |
+| [0306-additive-number](https://github.com/khushi162196-wq/Java-DSA/tree/master/0306-additive-number) |
 ## Trie
 |  |
 | ------- |
