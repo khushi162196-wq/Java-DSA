@@ -51,6 +51,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/khushi162196-wq/Java-DSA/tree/master/0257-binary-tree-paths) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/khushi162196-wq/Java-DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
 |  |
@@ -73,11 +74,13 @@
 | ------- |
 | [0212-word-search-ii](https://github.com/khushi162196-wq/Java-DSA/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/khushi162196-wq/Java-DSA/tree/master/0214-shortest-palindrome) |
+| [0257-binary-tree-paths](https://github.com/khushi162196-wq/Java-DSA/tree/master/0257-binary-tree-paths) |
 ## Backtracking
 |  |
 | ------- |
 | [0212-word-search-ii](https://github.com/khushi162196-wq/Java-DSA/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/khushi162196-wq/Java-DSA/tree/master/0216-combination-sum-iii) |
+| [0257-binary-tree-paths](https://github.com/khushi162196-wq/Java-DSA/tree/master/0257-binary-tree-paths) |
 ## Trie
 |  |
 | ------- |
@@ -124,4 +127,12 @@
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/khushi162196-wq/Java-DSA/tree/master/0203-remove-linked-list-elements) |
+## Tree
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/khushi162196-wq/Java-DSA/tree/master/0257-binary-tree-paths) |
+## Binary Tree
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/khushi162196-wq/Java-DSA/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
