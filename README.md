@@ -140,4 +140,8 @@
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/khushi162196-wq/Java-DSA/tree/master/0257-binary-tree-paths) |
+## Math
+|  |
+| ------- |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/khushi162196-wq/Java-DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 <!---LeetCode Topics End-->
