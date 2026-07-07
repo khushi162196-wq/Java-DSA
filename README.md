@@ -128,10 +128,12 @@
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/khushi162196-wq/Java-DSA/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/khushi162196-wq/Java-DSA/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/khushi162196-wq/Java-DSA/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/khushi162196-wq/Java-DSA/tree/master/0206-reverse-linked-list) |
 ## Tree
 |  |
 | ------- |
