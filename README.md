@@ -126,6 +126,7 @@
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/khushi162196-wq/Java-DSA/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/khushi162196-wq/Java-DSA/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/khushi162196-wq/Java-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
 |  |
@@ -181,4 +182,5 @@
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/khushi162196-wq/Java-DSA/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/khushi162196-wq/Java-DSA/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
