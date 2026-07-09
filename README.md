@@ -61,6 +61,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/khushi162196-wq/Java-DSA/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/khushi162196-wq/Java-DSA/tree/master/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/khushi162196-wq/Java-DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0299-bulls-and-cows](https://github.com/khushi162196-wq/Java-DSA/tree/master/0299-bulls-and-cows) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/khushi162196-wq/Java-DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Depth-First Search
@@ -99,6 +100,7 @@
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/khushi162196-wq/Java-DSA/tree/master/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/khushi162196-wq/Java-DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/khushi162196-wq/Java-DSA/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/khushi162196-wq/Java-DSA/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/khushi162196-wq/Java-DSA/tree/master/0224-basic-calculator) |
@@ -118,6 +120,7 @@
 ## Trie
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/khushi162196-wq/Java-DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/khushi162196-wq/Java-DSA/tree/master/0212-word-search-ii) |
 ## Matrix
 |  |
@@ -194,6 +197,7 @@
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/khushi162196-wq/Java-DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0303-range-sum-query-immutable](https://github.com/khushi162196-wq/Java-DSA/tree/master/0303-range-sum-query-immutable) |
 ## Bit Manipulation
 |  |
