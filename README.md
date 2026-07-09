@@ -38,12 +38,14 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/khushi162196-wq/Java-DSA/tree/master/0207-course-schedule) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/khushi162196-wq/Java-DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/khushi162196-wq/Java-DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/khushi162196-wq/Java-DSA/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/khushi162196-wq/Java-DSA/tree/master/0207-course-schedule) |
 | [3620-network-recovery-pathways](https://github.com/khushi162196-wq/Java-DSA/tree/master/3620-network-recovery-pathways) |
 ## Heap (Priority Queue)
 |  |
@@ -66,6 +68,7 @@
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/khushi162196-wq/Java-DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/khushi162196-wq/Java-DSA/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/khushi162196-wq/Java-DSA/tree/master/0207-course-schedule) |
 | [0257-binary-tree-paths](https://github.com/khushi162196-wq/Java-DSA/tree/master/0257-binary-tree-paths) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/khushi162196-wq/Java-DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
@@ -73,6 +76,7 @@
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/khushi162196-wq/Java-DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/khushi162196-wq/Java-DSA/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/khushi162196-wq/Java-DSA/tree/master/0207-course-schedule) |
 | [0301-remove-invalid-parentheses](https://github.com/khushi162196-wq/Java-DSA/tree/master/0301-remove-invalid-parentheses) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/khushi162196-wq/Java-DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Union-Find
