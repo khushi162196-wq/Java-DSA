@@ -13,12 +13,14 @@
 | [1288-remove-covered-intervals](https://github.com/khushi162196-wq/Java-DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/khushi162196-wq/Java-DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/khushi162196-wq/Java-DSA/tree/master/2817-minimum-absolute-difference-between-elements-with-constraint) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/khushi162196-wq/Java-DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/khushi162196-wq/Java-DSA/tree/master/3620-network-recovery-pathways) |
 ## Binary Search
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/khushi162196-wq/Java-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/khushi162196-wq/Java-DSA/tree/master/2817-minimum-absolute-difference-between-elements-with-constraint) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/khushi162196-wq/Java-DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/khushi162196-wq/Java-DSA/tree/master/3620-network-recovery-pathways) |
 ## Dynamic Programming
 |  |
@@ -30,6 +32,7 @@
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/khushi162196-wq/Java-DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/khushi162196-wq/Java-DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/khushi162196-wq/Java-DSA/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
@@ -48,6 +51,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/khushi162196-wq/Java-DSA/tree/master/0001-two-sum) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/khushi162196-wq/Java-DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -62,6 +66,7 @@
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/khushi162196-wq/Java-DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/khushi162196-wq/Java-DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Sliding Window
 |  |
 | ------- |
