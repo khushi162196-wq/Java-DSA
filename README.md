@@ -62,11 +62,13 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/khushi162196-wq/Java-DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/khushi162196-wq/Java-DSA/tree/master/0257-binary-tree-paths) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/khushi162196-wq/Java-DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/khushi162196-wq/Java-DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0301-remove-invalid-parentheses](https://github.com/khushi162196-wq/Java-DSA/tree/master/0301-remove-invalid-parentheses) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/khushi162196-wq/Java-DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Union-Find
@@ -157,10 +159,12 @@
 ## Tree
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/khushi162196-wq/Java-DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/khushi162196-wq/Java-DSA/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/khushi162196-wq/Java-DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/khushi162196-wq/Java-DSA/tree/master/0257-binary-tree-paths) |
 ## Math
 |  |
