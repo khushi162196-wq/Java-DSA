@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/khushi162196-wq/Java-DSA/tree/master/0001-two-sum) |
 | [0198-house-robber](https://github.com/khushi162196-wq/Java-DSA/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/khushi162196-wq/Java-DSA/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/khushi162196-wq/Java-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0212-word-search-ii](https://github.com/khushi162196-wq/Java-DSA/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/khushi162196-wq/Java-DSA/tree/master/0213-house-robber-ii) |
@@ -63,17 +64,20 @@
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/khushi162196-wq/Java-DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/khushi162196-wq/Java-DSA/tree/master/0200-number-of-islands) |
 | [0257-binary-tree-paths](https://github.com/khushi162196-wq/Java-DSA/tree/master/0257-binary-tree-paths) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/khushi162196-wq/Java-DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/khushi162196-wq/Java-DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/khushi162196-wq/Java-DSA/tree/master/0200-number-of-islands) |
 | [0301-remove-invalid-parentheses](https://github.com/khushi162196-wq/Java-DSA/tree/master/0301-remove-invalid-parentheses) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/khushi162196-wq/Java-DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/khushi162196-wq/Java-DSA/tree/master/0200-number-of-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/khushi162196-wq/Java-DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/khushi162196-wq/Java-DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Sliding Window
@@ -112,6 +116,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/khushi162196-wq/Java-DSA/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/khushi162196-wq/Java-DSA/tree/master/0212-word-search-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/khushi162196-wq/Java-DSA/tree/master/1301-number-of-paths-with-max-score) |
 ## Rolling Hash
