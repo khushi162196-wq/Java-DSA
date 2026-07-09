@@ -125,6 +125,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/khushi162196-wq/Java-DSA/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/khushi162196-wq/Java-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
 |  |
@@ -176,4 +177,8 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/khushi162196-wq/Java-DSA/tree/master/0303-range-sum-query-immutable) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/khushi162196-wq/Java-DSA/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
