@@ -18,6 +18,7 @@
 | [1301-number-of-paths-with-max-score](https://github.com/khushi162196-wq/Java-DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/khushi162196-wq/Java-DSA/tree/master/2817-minimum-absolute-difference-between-elements-with-constraint) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/khushi162196-wq/Java-DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/khushi162196-wq/Java-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/khushi162196-wq/Java-DSA/tree/master/3620-network-recovery-pathways) |
 ## Binary Search
 |  |
@@ -26,6 +27,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/khushi162196-wq/Java-DSA/tree/master/0300-longest-increasing-subsequence) |
 | [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/khushi162196-wq/Java-DSA/tree/master/2817-minimum-absolute-difference-between-elements-with-constraint) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/khushi162196-wq/Java-DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/khushi162196-wq/Java-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/khushi162196-wq/Java-DSA/tree/master/3620-network-recovery-pathways) |
 ## Dynamic Programming
 |  |
@@ -34,6 +36,7 @@
 | [0213-house-robber-ii](https://github.com/khushi162196-wq/Java-DSA/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/khushi162196-wq/Java-DSA/tree/master/0300-longest-increasing-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/khushi162196-wq/Java-DSA/tree/master/1301-number-of-paths-with-max-score) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/khushi162196-wq/Java-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/khushi162196-wq/Java-DSA/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory
 |  |
@@ -41,6 +44,7 @@
 | [0207-course-schedule](https://github.com/khushi162196-wq/Java-DSA/tree/master/0207-course-schedule) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/khushi162196-wq/Java-DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/khushi162196-wq/Java-DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/khushi162196-wq/Java-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/khushi162196-wq/Java-DSA/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
@@ -151,6 +155,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/khushi162196-wq/Java-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [1288-remove-covered-intervals](https://github.com/khushi162196-wq/Java-DSA/tree/master/1288-remove-covered-intervals) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/khushi162196-wq/Java-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Quickselect
 |  |
 | ------- |
@@ -205,4 +210,13 @@
 | [0190-reverse-bits](https://github.com/khushi162196-wq/Java-DSA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/khushi162196-wq/Java-DSA/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/khushi162196-wq/Java-DSA/tree/master/0201-bitwise-and-of-numbers-range) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/khushi162196-wq/Java-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/khushi162196-wq/Java-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Greedy
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/khushi162196-wq/Java-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 <!---LeetCode Topics End-->
