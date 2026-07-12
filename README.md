@@ -18,6 +18,7 @@
 | [0220-contains-duplicate-iii](https://github.com/khushi162196-wq/Java-DSA/tree/master/0220-contains-duplicate-iii) |
 | [0221-maximal-square](https://github.com/khushi162196-wq/Java-DSA/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/khushi162196-wq/Java-DSA/tree/master/0228-summary-ranges) |
+| [0229-majority-element-ii](https://github.com/khushi162196-wq/Java-DSA/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/khushi162196-wq/Java-DSA/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/khushi162196-wq/Java-DSA/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/khushi162196-wq/Java-DSA/tree/master/0240-search-a-2d-matrix-ii) |
@@ -84,6 +85,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/khushi162196-wq/Java-DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/khushi162196-wq/Java-DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/khushi162196-wq/Java-DSA/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/khushi162196-wq/Java-DSA/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/khushi162196-wq/Java-DSA/tree/master/0299-bulls-and-cows) |
 | [1331-rank-transform-of-an-array](https://github.com/khushi162196-wq/Java-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/khushi162196-wq/Java-DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -191,6 +193,7 @@
 | [0217-contains-duplicate](https://github.com/khushi162196-wq/Java-DSA/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/khushi162196-wq/Java-DSA/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/khushi162196-wq/Java-DSA/tree/master/0220-contains-duplicate-iii) |
+| [0229-majority-element-ii](https://github.com/khushi162196-wq/Java-DSA/tree/master/0229-majority-element-ii) |
 | [1288-remove-covered-intervals](https://github.com/khushi162196-wq/Java-DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/khushi162196-wq/Java-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/khushi162196-wq/Java-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -251,6 +254,7 @@
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/khushi162196-wq/Java-DSA/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/khushi162196-wq/Java-DSA/tree/master/0299-bulls-and-cows) |
 ## Design
 |  |
