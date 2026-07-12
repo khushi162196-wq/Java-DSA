@@ -26,6 +26,7 @@
 | [0274-h-index](https://github.com/khushi162196-wq/Java-DSA/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/khushi162196-wq/Java-DSA/tree/master/0275-h-index-ii) |
 | [0284-peeking-iterator](https://github.com/khushi162196-wq/Java-DSA/tree/master/0284-peeking-iterator) |
+| [0289-game-of-life](https://github.com/khushi162196-wq/Java-DSA/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/khushi162196-wq/Java-DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/khushi162196-wq/Java-DSA/tree/master/0303-range-sum-query-immutable) |
 | [1288-remove-covered-intervals](https://github.com/khushi162196-wq/Java-DSA/tree/master/1288-remove-covered-intervals) |
@@ -173,6 +174,7 @@
 | [0212-word-search-ii](https://github.com/khushi162196-wq/Java-DSA/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/khushi162196-wq/Java-DSA/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/khushi162196-wq/Java-DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0289-game-of-life](https://github.com/khushi162196-wq/Java-DSA/tree/master/0289-game-of-life) |
 | [1301-number-of-paths-with-max-score](https://github.com/khushi162196-wq/Java-DSA/tree/master/1301-number-of-paths-with-max-score) |
 ## Rolling Hash
 |  |
@@ -334,4 +336,8 @@
 |  |
 | ------- |
 | [0284-peeking-iterator](https://github.com/khushi162196-wq/Java-DSA/tree/master/0284-peeking-iterator) |
+## Simulation
+|  |
+| ------- |
+| [0289-game-of-life](https://github.com/khushi162196-wq/Java-DSA/tree/master/0289-game-of-life) |
 <!---LeetCode Topics End-->
