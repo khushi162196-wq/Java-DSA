@@ -32,6 +32,7 @@
 | [0307-range-sum-query-mutable](https://github.com/khushi162196-wq/Java-DSA/tree/master/0307-range-sum-query-mutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/khushi162196-wq/Java-DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/khushi162196-wq/Java-DSA/tree/master/0312-burst-balloons) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/khushi162196-wq/Java-DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [1288-remove-covered-intervals](https://github.com/khushi162196-wq/Java-DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/khushi162196-wq/Java-DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/khushi162196-wq/Java-DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -47,6 +48,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/khushi162196-wq/Java-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/khushi162196-wq/Java-DSA/tree/master/0275-h-index-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/khushi162196-wq/Java-DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/khushi162196-wq/Java-DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/khushi162196-wq/Java-DSA/tree/master/2817-minimum-absolute-difference-between-elements-with-constraint) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/khushi162196-wq/Java-DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/khushi162196-wq/Java-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -212,6 +214,7 @@
 | [0218-the-skyline-problem](https://github.com/khushi162196-wq/Java-DSA/tree/master/0218-the-skyline-problem) |
 | [0240-search-a-2d-matrix-ii](https://github.com/khushi162196-wq/Java-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0307-range-sum-query-mutable](https://github.com/khushi162196-wq/Java-DSA/tree/master/0307-range-sum-query-mutable) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/khushi162196-wq/Java-DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Sorting
 |  |
 | ------- |
@@ -235,6 +238,7 @@
 | ------- |
 | [0218-the-skyline-problem](https://github.com/khushi162196-wq/Java-DSA/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/khushi162196-wq/Java-DSA/tree/master/0220-contains-duplicate-iii) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/khushi162196-wq/Java-DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/khushi162196-wq/Java-DSA/tree/master/2817-minimum-absolute-difference-between-elements-with-constraint) |
 ## Linked List
 |  |
@@ -325,11 +329,13 @@
 | ------- |
 | [0218-the-skyline-problem](https://github.com/khushi162196-wq/Java-DSA/tree/master/0218-the-skyline-problem) |
 | [0307-range-sum-query-mutable](https://github.com/khushi162196-wq/Java-DSA/tree/master/0307-range-sum-query-mutable) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/khushi162196-wq/Java-DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Segment Tree
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/khushi162196-wq/Java-DSA/tree/master/0218-the-skyline-problem) |
 | [0307-range-sum-query-mutable](https://github.com/khushi162196-wq/Java-DSA/tree/master/0307-range-sum-query-mutable) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/khushi162196-wq/Java-DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Sweep Line
 |  |
 | ------- |
@@ -369,4 +375,8 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/khushi162196-wq/Java-DSA/tree/master/0295-find-median-from-data-stream) |
+## Merge Sort
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/khushi162196-wq/Java-DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
