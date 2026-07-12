@@ -253,6 +253,7 @@
 | ------- |
 | [0224-basic-calculator](https://github.com/khushi162196-wq/Java-DSA/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/khushi162196-wq/Java-DSA/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/khushi162196-wq/Java-DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/khushi162196-wq/Java-DSA/tree/master/0234-palindrome-linked-list) |
 ## Counting
 |  |
@@ -264,6 +265,7 @@
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/khushi162196-wq/Java-DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/khushi162196-wq/Java-DSA/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/khushi162196-wq/Java-DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/khushi162196-wq/Java-DSA/tree/master/0303-range-sum-query-immutable) |
 ## Bit Manipulation
 |  |
@@ -307,6 +309,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/khushi162196-wq/Java-DSA/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/khushi162196-wq/Java-DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/khushi162196-wq/Java-DSA/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Queue
 |  |
