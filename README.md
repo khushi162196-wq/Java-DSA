@@ -25,6 +25,7 @@
 | [0260-single-number-iii](https://github.com/khushi162196-wq/Java-DSA/tree/master/0260-single-number-iii) |
 | [0274-h-index](https://github.com/khushi162196-wq/Java-DSA/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/khushi162196-wq/Java-DSA/tree/master/0275-h-index-ii) |
+| [0284-peeking-iterator](https://github.com/khushi162196-wq/Java-DSA/tree/master/0284-peeking-iterator) |
 | [0300-longest-increasing-subsequence](https://github.com/khushi162196-wq/Java-DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/khushi162196-wq/Java-DSA/tree/master/0303-range-sum-query-immutable) |
 | [1288-remove-covered-intervals](https://github.com/khushi162196-wq/Java-DSA/tree/master/1288-remove-covered-intervals) |
@@ -274,6 +275,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/khushi162196-wq/Java-DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/khushi162196-wq/Java-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/khushi162196-wq/Java-DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0284-peeking-iterator](https://github.com/khushi162196-wq/Java-DSA/tree/master/0284-peeking-iterator) |
 | [0303-range-sum-query-immutable](https://github.com/khushi162196-wq/Java-DSA/tree/master/0303-range-sum-query-immutable) |
 ## Bit Manipulation
 |  |
@@ -328,4 +330,8 @@
 |  |
 | ------- |
 | [0274-h-index](https://github.com/khushi162196-wq/Java-DSA/tree/master/0274-h-index) |
+## Iterator
+|  |
+| ------- |
+| [0284-peeking-iterator](https://github.com/khushi162196-wq/Java-DSA/tree/master/0284-peeking-iterator) |
 <!---LeetCode Topics End-->
