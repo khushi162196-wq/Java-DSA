@@ -86,6 +86,7 @@
 | [0217-contains-duplicate](https://github.com/khushi162196-wq/Java-DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/khushi162196-wq/Java-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/khushi162196-wq/Java-DSA/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/khushi162196-wq/Java-DSA/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/khushi162196-wq/Java-DSA/tree/master/0299-bulls-and-cows) |
 | [1331-rank-transform-of-an-array](https://github.com/khushi162196-wq/Java-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/khushi162196-wq/Java-DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -141,6 +142,7 @@
 | [0212-word-search-ii](https://github.com/khushi162196-wq/Java-DSA/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/khushi162196-wq/Java-DSA/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/khushi162196-wq/Java-DSA/tree/master/0224-basic-calculator) |
+| [0242-valid-anagram](https://github.com/khushi162196-wq/Java-DSA/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/khushi162196-wq/Java-DSA/tree/master/0257-binary-tree-paths) |
 | [0299-bulls-and-cows](https://github.com/khushi162196-wq/Java-DSA/tree/master/0299-bulls-and-cows) |
 | [0301-remove-invalid-parentheses](https://github.com/khushi162196-wq/Java-DSA/tree/master/0301-remove-invalid-parentheses) |
@@ -195,6 +197,7 @@
 | [0218-the-skyline-problem](https://github.com/khushi162196-wq/Java-DSA/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/khushi162196-wq/Java-DSA/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/khushi162196-wq/Java-DSA/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/khushi162196-wq/Java-DSA/tree/master/0242-valid-anagram) |
 | [1288-remove-covered-intervals](https://github.com/khushi162196-wq/Java-DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/khushi162196-wq/Java-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/khushi162196-wq/Java-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
