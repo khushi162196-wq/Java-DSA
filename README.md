@@ -24,6 +24,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/khushi162196-wq/Java-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/khushi162196-wq/Java-DSA/tree/master/0260-single-number-iii) |
 | [0274-h-index](https://github.com/khushi162196-wq/Java-DSA/tree/master/0274-h-index) |
+| [0275-h-index-ii](https://github.com/khushi162196-wq/Java-DSA/tree/master/0275-h-index-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/khushi162196-wq/Java-DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/khushi162196-wq/Java-DSA/tree/master/0303-range-sum-query-immutable) |
 | [1288-remove-covered-intervals](https://github.com/khushi162196-wq/Java-DSA/tree/master/1288-remove-covered-intervals) |
@@ -39,6 +40,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/khushi162196-wq/Java-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/khushi162196-wq/Java-DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/khushi162196-wq/Java-DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0275-h-index-ii](https://github.com/khushi162196-wq/Java-DSA/tree/master/0275-h-index-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/khushi162196-wq/Java-DSA/tree/master/0300-longest-increasing-subsequence) |
 | [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/khushi162196-wq/Java-DSA/tree/master/2817-minimum-absolute-difference-between-elements-with-constraint) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/khushi162196-wq/Java-DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
