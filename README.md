@@ -65,6 +65,7 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/khushi162196-wq/Java-DSA/tree/master/0207-course-schedule) |
+| [0310-minimum-height-trees](https://github.com/khushi162196-wq/Java-DSA/tree/master/0310-minimum-height-trees) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/khushi162196-wq/Java-DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/khushi162196-wq/Java-DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/khushi162196-wq/Java-DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -74,6 +75,7 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/khushi162196-wq/Java-DSA/tree/master/0207-course-schedule) |
+| [0310-minimum-height-trees](https://github.com/khushi162196-wq/Java-DSA/tree/master/0310-minimum-height-trees) |
 | [3620-network-recovery-pathways](https://github.com/khushi162196-wq/Java-DSA/tree/master/3620-network-recovery-pathways) |
 ## Heap (Priority Queue)
 |  |
@@ -113,6 +115,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/khushi162196-wq/Java-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/khushi162196-wq/Java-DSA/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/khushi162196-wq/Java-DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/khushi162196-wq/Java-DSA/tree/master/0310-minimum-height-trees) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/khushi162196-wq/Java-DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/khushi162196-wq/Java-DSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
@@ -124,6 +127,7 @@
 | [0226-invert-binary-tree](https://github.com/khushi162196-wq/Java-DSA/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/khushi162196-wq/Java-DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/khushi162196-wq/Java-DSA/tree/master/0301-remove-invalid-parentheses) |
+| [0310-minimum-height-trees](https://github.com/khushi162196-wq/Java-DSA/tree/master/0310-minimum-height-trees) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/khushi162196-wq/Java-DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/khushi162196-wq/Java-DSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
