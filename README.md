@@ -78,6 +78,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/khushi162196-wq/Java-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/khushi162196-wq/Java-DSA/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/khushi162196-wq/Java-DSA/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/khushi162196-wq/Java-DSA/tree/master/0295-find-median-from-data-stream) |
 | [3620-network-recovery-pathways](https://github.com/khushi162196-wq/Java-DSA/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
@@ -208,6 +209,7 @@
 | [0229-majority-element-ii](https://github.com/khushi162196-wq/Java-DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/khushi162196-wq/Java-DSA/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/khushi162196-wq/Java-DSA/tree/master/0274-h-index) |
+| [0295-find-median-from-data-stream](https://github.com/khushi162196-wq/Java-DSA/tree/master/0295-find-median-from-data-stream) |
 | [1288-remove-covered-intervals](https://github.com/khushi162196-wq/Java-DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/khushi162196-wq/Java-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/khushi162196-wq/Java-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -280,6 +282,7 @@
 | [0225-implement-stack-using-queues](https://github.com/khushi162196-wq/Java-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/khushi162196-wq/Java-DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0284-peeking-iterator](https://github.com/khushi162196-wq/Java-DSA/tree/master/0284-peeking-iterator) |
+| [0295-find-median-from-data-stream](https://github.com/khushi162196-wq/Java-DSA/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/khushi162196-wq/Java-DSA/tree/master/0303-range-sum-query-immutable) |
 ## Bit Manipulation
 |  |
@@ -294,6 +297,7 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/khushi162196-wq/Java-DSA/tree/master/0234-palindrome-linked-list) |
+| [0295-find-median-from-data-stream](https://github.com/khushi162196-wq/Java-DSA/tree/master/0295-find-median-from-data-stream) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/khushi162196-wq/Java-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
 |  |
@@ -342,4 +346,8 @@
 |  |
 | ------- |
 | [0289-game-of-life](https://github.com/khushi162196-wq/Java-DSA/tree/master/0289-game-of-life) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/khushi162196-wq/Java-DSA/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
