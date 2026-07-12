@@ -23,6 +23,7 @@
 | [0239-sliding-window-maximum](https://github.com/khushi162196-wq/Java-DSA/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/khushi162196-wq/Java-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/khushi162196-wq/Java-DSA/tree/master/0260-single-number-iii) |
+| [0274-h-index](https://github.com/khushi162196-wq/Java-DSA/tree/master/0274-h-index) |
 | [0300-longest-increasing-subsequence](https://github.com/khushi162196-wq/Java-DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/khushi162196-wq/Java-DSA/tree/master/0303-range-sum-query-immutable) |
 | [1288-remove-covered-intervals](https://github.com/khushi162196-wq/Java-DSA/tree/master/1288-remove-covered-intervals) |
@@ -199,6 +200,7 @@
 | [0220-contains-duplicate-iii](https://github.com/khushi162196-wq/Java-DSA/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/khushi162196-wq/Java-DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/khushi162196-wq/Java-DSA/tree/master/0242-valid-anagram) |
+| [0274-h-index](https://github.com/khushi162196-wq/Java-DSA/tree/master/0274-h-index) |
 | [1288-remove-covered-intervals](https://github.com/khushi162196-wq/Java-DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/khushi162196-wq/Java-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/khushi162196-wq/Java-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -320,4 +322,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/khushi162196-wq/Java-DSA/tree/master/0239-sliding-window-maximum) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/khushi162196-wq/Java-DSA/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
