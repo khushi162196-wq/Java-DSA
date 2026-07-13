@@ -386,4 +386,8 @@
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/khushi162196-wq/Java-DSA/tree/master/0316-remove-duplicate-letters) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/khushi162196-wq/Java-DSA/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
