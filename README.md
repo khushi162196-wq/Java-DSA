@@ -35,6 +35,7 @@
 | [0315-count-of-smaller-numbers-after-self](https://github.com/khushi162196-wq/Java-DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0318-maximum-product-of-word-lengths](https://github.com/khushi162196-wq/Java-DSA/tree/master/0318-maximum-product-of-word-lengths) |
 | [0321-create-maximum-number](https://github.com/khushi162196-wq/Java-DSA/tree/master/0321-create-maximum-number) |
+| [0322-coin-change](https://github.com/khushi162196-wq/Java-DSA/tree/master/0322-coin-change) |
 | [1288-remove-covered-intervals](https://github.com/khushi162196-wq/Java-DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/khushi162196-wq/Java-DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/khushi162196-wq/Java-DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -65,6 +66,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/khushi162196-wq/Java-DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/khushi162196-wq/Java-DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/khushi162196-wq/Java-DSA/tree/master/0312-burst-balloons) |
+| [0322-coin-change](https://github.com/khushi162196-wq/Java-DSA/tree/master/0322-coin-change) |
 | [1301-number-of-paths-with-max-score](https://github.com/khushi162196-wq/Java-DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/khushi162196-wq/Java-DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/khushi162196-wq/Java-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -136,6 +138,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/khushi162196-wq/Java-DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/khushi162196-wq/Java-DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0310-minimum-height-trees](https://github.com/khushi162196-wq/Java-DSA/tree/master/0310-minimum-height-trees) |
+| [0322-coin-change](https://github.com/khushi162196-wq/Java-DSA/tree/master/0322-coin-change) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/khushi162196-wq/Java-DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/khushi162196-wq/Java-DSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
