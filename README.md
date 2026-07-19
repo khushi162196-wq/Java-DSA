@@ -39,6 +39,7 @@
 | [0324-wiggle-sort-ii](https://github.com/khushi162196-wq/Java-DSA/tree/master/0324-wiggle-sort-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/khushi162196-wq/Java-DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0334-increasing-triplet-subsequence](https://github.com/khushi162196-wq/Java-DSA/tree/master/0334-increasing-triplet-subsequence) |
+| [0336-palindrome-pairs](https://github.com/khushi162196-wq/Java-DSA/tree/master/0336-palindrome-pairs) |
 | [1288-remove-covered-intervals](https://github.com/khushi162196-wq/Java-DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/khushi162196-wq/Java-DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/khushi162196-wq/Java-DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -117,6 +118,7 @@
 | [0242-valid-anagram](https://github.com/khushi162196-wq/Java-DSA/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/khushi162196-wq/Java-DSA/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/khushi162196-wq/Java-DSA/tree/master/0299-bulls-and-cows) |
+| [0336-palindrome-pairs](https://github.com/khushi162196-wq/Java-DSA/tree/master/0336-palindrome-pairs) |
 | [1331-rank-transform-of-an-array](https://github.com/khushi162196-wq/Java-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/khushi162196-wq/Java-DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Depth-First Search
@@ -187,6 +189,7 @@
 | [0306-additive-number](https://github.com/khushi162196-wq/Java-DSA/tree/master/0306-additive-number) |
 | [0316-remove-duplicate-letters](https://github.com/khushi162196-wq/Java-DSA/tree/master/0316-remove-duplicate-letters) |
 | [0318-maximum-product-of-word-lengths](https://github.com/khushi162196-wq/Java-DSA/tree/master/0318-maximum-product-of-word-lengths) |
+| [0336-palindrome-pairs](https://github.com/khushi162196-wq/Java-DSA/tree/master/0336-palindrome-pairs) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/khushi162196-wq/Java-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/khushi162196-wq/Java-DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Backtracking
@@ -202,6 +205,7 @@
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/khushi162196-wq/Java-DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/khushi162196-wq/Java-DSA/tree/master/0212-word-search-ii) |
+| [0336-palindrome-pairs](https://github.com/khushi162196-wq/Java-DSA/tree/master/0336-palindrome-pairs) |
 ## Matrix
 |  |
 | ------- |
@@ -224,6 +228,7 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/khushi162196-wq/Java-DSA/tree/master/0214-shortest-palindrome) |
+| [0336-palindrome-pairs](https://github.com/khushi162196-wq/Java-DSA/tree/master/0336-palindrome-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
