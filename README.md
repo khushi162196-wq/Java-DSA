@@ -33,6 +33,7 @@
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/khushi162196-wq/Java-DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/khushi162196-wq/Java-DSA/tree/master/0312-burst-balloons) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/khushi162196-wq/Java-DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0318-maximum-product-of-word-lengths](https://github.com/khushi162196-wq/Java-DSA/tree/master/0318-maximum-product-of-word-lengths) |
 | [1288-remove-covered-intervals](https://github.com/khushi162196-wq/Java-DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/khushi162196-wq/Java-DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/khushi162196-wq/Java-DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -173,6 +174,7 @@
 | [0301-remove-invalid-parentheses](https://github.com/khushi162196-wq/Java-DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0306-additive-number](https://github.com/khushi162196-wq/Java-DSA/tree/master/0306-additive-number) |
 | [0316-remove-duplicate-letters](https://github.com/khushi162196-wq/Java-DSA/tree/master/0316-remove-duplicate-letters) |
+| [0318-maximum-product-of-word-lengths](https://github.com/khushi162196-wq/Java-DSA/tree/master/0318-maximum-product-of-word-lengths) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/khushi162196-wq/Java-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/khushi162196-wq/Java-DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Backtracking
@@ -321,6 +323,7 @@
 | [0201-bitwise-and-of-numbers-range](https://github.com/khushi162196-wq/Java-DSA/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/khushi162196-wq/Java-DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0260-single-number-iii](https://github.com/khushi162196-wq/Java-DSA/tree/master/0260-single-number-iii) |
+| [0318-maximum-product-of-word-lengths](https://github.com/khushi162196-wq/Java-DSA/tree/master/0318-maximum-product-of-word-lengths) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/khushi162196-wq/Java-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Two Pointers
 |  |
