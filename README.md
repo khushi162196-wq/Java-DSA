@@ -36,6 +36,7 @@
 | [0318-maximum-product-of-word-lengths](https://github.com/khushi162196-wq/Java-DSA/tree/master/0318-maximum-product-of-word-lengths) |
 | [0321-create-maximum-number](https://github.com/khushi162196-wq/Java-DSA/tree/master/0321-create-maximum-number) |
 | [0322-coin-change](https://github.com/khushi162196-wq/Java-DSA/tree/master/0322-coin-change) |
+| [0324-wiggle-sort-ii](https://github.com/khushi162196-wq/Java-DSA/tree/master/0324-wiggle-sort-ii) |
 | [1288-remove-covered-intervals](https://github.com/khushi162196-wq/Java-DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/khushi162196-wq/Java-DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/khushi162196-wq/Java-DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -225,6 +226,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/khushi162196-wq/Java-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0307-range-sum-query-mutable](https://github.com/khushi162196-wq/Java-DSA/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/khushi162196-wq/Java-DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0324-wiggle-sort-ii](https://github.com/khushi162196-wq/Java-DSA/tree/master/0324-wiggle-sort-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -236,6 +238,7 @@
 | [0242-valid-anagram](https://github.com/khushi162196-wq/Java-DSA/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/khushi162196-wq/Java-DSA/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/khushi162196-wq/Java-DSA/tree/master/0295-find-median-from-data-stream) |
+| [0324-wiggle-sort-ii](https://github.com/khushi162196-wq/Java-DSA/tree/master/0324-wiggle-sort-ii) |
 | [1288-remove-covered-intervals](https://github.com/khushi162196-wq/Java-DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/khushi162196-wq/Java-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/khushi162196-wq/Java-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -243,6 +246,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/khushi162196-wq/Java-DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0324-wiggle-sort-ii](https://github.com/khushi162196-wq/Java-DSA/tree/master/0324-wiggle-sort-ii) |
 ## Ordered Set
 |  |
 | ------- |
@@ -342,6 +346,7 @@
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/khushi162196-wq/Java-DSA/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/khushi162196-wq/Java-DSA/tree/master/0321-create-maximum-number) |
+| [0324-wiggle-sort-ii](https://github.com/khushi162196-wq/Java-DSA/tree/master/0324-wiggle-sort-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/khushi162196-wq/Java-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/khushi162196-wq/Java-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Binary Indexed Tree
