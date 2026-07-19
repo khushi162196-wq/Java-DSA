@@ -34,6 +34,7 @@
 | [0312-burst-balloons](https://github.com/khushi162196-wq/Java-DSA/tree/master/0312-burst-balloons) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/khushi162196-wq/Java-DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0318-maximum-product-of-word-lengths](https://github.com/khushi162196-wq/Java-DSA/tree/master/0318-maximum-product-of-word-lengths) |
+| [0321-create-maximum-number](https://github.com/khushi162196-wq/Java-DSA/tree/master/0321-create-maximum-number) |
 | [1288-remove-covered-intervals](https://github.com/khushi162196-wq/Java-DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/khushi162196-wq/Java-DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/khushi162196-wq/Java-DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -298,6 +299,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/khushi162196-wq/Java-DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/khushi162196-wq/Java-DSA/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/khushi162196-wq/Java-DSA/tree/master/0316-remove-duplicate-letters) |
+| [0321-create-maximum-number](https://github.com/khushi162196-wq/Java-DSA/tree/master/0321-create-maximum-number) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/khushi162196-wq/Java-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Counting
 |  |
@@ -330,11 +332,13 @@
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/khushi162196-wq/Java-DSA/tree/master/0234-palindrome-linked-list) |
 | [0295-find-median-from-data-stream](https://github.com/khushi162196-wq/Java-DSA/tree/master/0295-find-median-from-data-stream) |
+| [0321-create-maximum-number](https://github.com/khushi162196-wq/Java-DSA/tree/master/0321-create-maximum-number) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/khushi162196-wq/Java-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/khushi162196-wq/Java-DSA/tree/master/0316-remove-duplicate-letters) |
+| [0321-create-maximum-number](https://github.com/khushi162196-wq/Java-DSA/tree/master/0321-create-maximum-number) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/khushi162196-wq/Java-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/khushi162196-wq/Java-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Binary Indexed Tree
@@ -396,6 +400,7 @@
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/khushi162196-wq/Java-DSA/tree/master/0316-remove-duplicate-letters) |
+| [0321-create-maximum-number](https://github.com/khushi162196-wq/Java-DSA/tree/master/0321-create-maximum-number) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/khushi162196-wq/Java-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Enumeration
 |  |
