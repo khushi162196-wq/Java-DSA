@@ -40,6 +40,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/khushi162196-wq/Java-DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0334-increasing-triplet-subsequence](https://github.com/khushi162196-wq/Java-DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0336-palindrome-pairs](https://github.com/khushi162196-wq/Java-DSA/tree/master/0336-palindrome-pairs) |
+| [1260-shift-2d-grid](https://github.com/khushi162196-wq/Java-DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/khushi162196-wq/Java-DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/khushi162196-wq/Java-DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/khushi162196-wq/Java-DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -215,6 +216,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/khushi162196-wq/Java-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/khushi162196-wq/Java-DSA/tree/master/0289-game-of-life) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/khushi162196-wq/Java-DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1260-shift-2d-grid](https://github.com/khushi162196-wq/Java-DSA/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/khushi162196-wq/Java-DSA/tree/master/1301-number-of-paths-with-max-score) |
 ## Rolling Hash
 |  |
@@ -410,6 +412,7 @@
 |  |
 | ------- |
 | [0289-game-of-life](https://github.com/khushi162196-wq/Java-DSA/tree/master/0289-game-of-life) |
+| [1260-shift-2d-grid](https://github.com/khushi162196-wq/Java-DSA/tree/master/1260-shift-2d-grid) |
 ## Data Stream
 |  |
 | ------- |
