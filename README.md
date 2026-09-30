@@ -40,6 +40,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/khushi162196-wq/Java-DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0334-increasing-triplet-subsequence](https://github.com/khushi162196-wq/Java-DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0336-palindrome-pairs](https://github.com/khushi162196-wq/Java-DSA/tree/master/0336-palindrome-pairs) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/khushi162196-wq/Java-DSA/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [1260-shift-2d-grid](https://github.com/khushi162196-wq/Java-DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/khushi162196-wq/Java-DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/khushi162196-wq/Java-DSA/tree/master/1301-number-of-paths-with-max-score) |
@@ -58,6 +59,7 @@
 | [0275-h-index-ii](https://github.com/khushi162196-wq/Java-DSA/tree/master/0275-h-index-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/khushi162196-wq/Java-DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/khushi162196-wq/Java-DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/khushi162196-wq/Java-DSA/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/khushi162196-wq/Java-DSA/tree/master/2817-minimum-absolute-difference-between-elements-with-constraint) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/khushi162196-wq/Java-DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/khushi162196-wq/Java-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -172,6 +174,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/khushi162196-wq/Java-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/khushi162196-wq/Java-DSA/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/khushi162196-wq/Java-DSA/tree/master/0303-range-sum-query-immutable) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/khushi162196-wq/Java-DSA/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/khushi162196-wq/Java-DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## String
 |  |
@@ -216,6 +219,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/khushi162196-wq/Java-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/khushi162196-wq/Java-DSA/tree/master/0289-game-of-life) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/khushi162196-wq/Java-DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/khushi162196-wq/Java-DSA/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [1260-shift-2d-grid](https://github.com/khushi162196-wq/Java-DSA/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/khushi162196-wq/Java-DSA/tree/master/1301-number-of-paths-with-max-score) |
 ## Rolling Hash
@@ -268,6 +272,7 @@
 | [0218-the-skyline-problem](https://github.com/khushi162196-wq/Java-DSA/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/khushi162196-wq/Java-DSA/tree/master/0220-contains-duplicate-iii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/khushi162196-wq/Java-DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/khushi162196-wq/Java-DSA/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/khushi162196-wq/Java-DSA/tree/master/2817-minimum-absolute-difference-between-elements-with-constraint) |
 ## Linked List
 |  |
