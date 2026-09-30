@@ -43,6 +43,7 @@
 | [0336-palindrome-pairs](https://github.com/khushi162196-wq/Java-DSA/tree/master/0336-palindrome-pairs) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/khushi162196-wq/Java-DSA/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/khushi162196-wq/Java-DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0376-wiggle-subsequence](https://github.com/khushi162196-wq/Java-DSA/tree/master/0376-wiggle-subsequence) |
 | [1260-shift-2d-grid](https://github.com/khushi162196-wq/Java-DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/khushi162196-wq/Java-DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/khushi162196-wq/Java-DSA/tree/master/1301-number-of-paths-with-max-score) |
@@ -77,6 +78,7 @@
 | [0312-burst-balloons](https://github.com/khushi162196-wq/Java-DSA/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/khushi162196-wq/Java-DSA/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/khushi162196-wq/Java-DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0376-wiggle-subsequence](https://github.com/khushi162196-wq/Java-DSA/tree/master/0376-wiggle-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/khushi162196-wq/Java-DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/khushi162196-wq/Java-DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/khushi162196-wq/Java-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -377,6 +379,7 @@
 | [0321-create-maximum-number](https://github.com/khushi162196-wq/Java-DSA/tree/master/0321-create-maximum-number) |
 | [0324-wiggle-sort-ii](https://github.com/khushi162196-wq/Java-DSA/tree/master/0324-wiggle-sort-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/khushi162196-wq/Java-DSA/tree/master/0334-increasing-triplet-subsequence) |
+| [0376-wiggle-subsequence](https://github.com/khushi162196-wq/Java-DSA/tree/master/0376-wiggle-subsequence) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/khushi162196-wq/Java-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/khushi162196-wq/Java-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Binary Indexed Tree
