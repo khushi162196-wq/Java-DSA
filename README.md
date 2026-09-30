@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/khushi162196-wq/Java-DSA/tree/master/0001-two-sum) |
+| [0048-rotate-image](https://github.com/khushi162196-wq/Java-DSA/tree/master/0048-rotate-image) |
 | [0198-house-robber](https://github.com/khushi162196-wq/Java-DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/khushi162196-wq/Java-DSA/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/khushi162196-wq/Java-DSA/tree/master/0209-minimum-size-subarray-sum) |
@@ -216,6 +217,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/khushi162196-wq/Java-DSA/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/khushi162196-wq/Java-DSA/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/khushi162196-wq/Java-DSA/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/khushi162196-wq/Java-DSA/tree/master/0221-maximal-square) |
@@ -316,6 +318,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/khushi162196-wq/Java-DSA/tree/master/0048-rotate-image) |
 | [0224-basic-calculator](https://github.com/khushi162196-wq/Java-DSA/tree/master/0224-basic-calculator) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/khushi162196-wq/Java-DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/khushi162196-wq/Java-DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
