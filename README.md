@@ -41,6 +41,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/khushi162196-wq/Java-DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0336-palindrome-pairs](https://github.com/khushi162196-wq/Java-DSA/tree/master/0336-palindrome-pairs) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/khushi162196-wq/Java-DSA/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/khushi162196-wq/Java-DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [1260-shift-2d-grid](https://github.com/khushi162196-wq/Java-DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/khushi162196-wq/Java-DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/khushi162196-wq/Java-DSA/tree/master/1301-number-of-paths-with-max-score) |
@@ -104,6 +105,7 @@
 | [0218-the-skyline-problem](https://github.com/khushi162196-wq/Java-DSA/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/khushi162196-wq/Java-DSA/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/khushi162196-wq/Java-DSA/tree/master/0295-find-median-from-data-stream) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/khushi162196-wq/Java-DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [3620-network-recovery-pathways](https://github.com/khushi162196-wq/Java-DSA/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
