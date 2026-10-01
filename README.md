@@ -186,6 +186,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/khushi162196-wq/Java-DSA/tree/master/0020-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/khushi162196-wq/Java-DSA/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/khushi162196-wq/Java-DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/khushi162196-wq/Java-DSA/tree/master/0212-word-search-ii) |
@@ -332,6 +333,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/khushi162196-wq/Java-DSA/tree/master/0020-valid-parentheses) |
 | [0224-basic-calculator](https://github.com/khushi162196-wq/Java-DSA/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/khushi162196-wq/Java-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/khushi162196-wq/Java-DSA/tree/master/0232-implement-queue-using-stacks) |
@@ -462,5 +464,6 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/khushi162196-wq/Java-DSA/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/khushi162196-wq/Java-DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 <!---LeetCode Topics End-->
