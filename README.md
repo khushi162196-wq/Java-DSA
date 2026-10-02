@@ -72,6 +72,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/khushi162196-wq/Java-DSA/tree/master/0022-generate-parentheses) |
 | [0198-house-robber](https://github.com/khushi162196-wq/Java-DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/khushi162196-wq/Java-DSA/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/khushi162196-wq/Java-DSA/tree/master/0221-maximal-square) |
@@ -188,6 +189,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/khushi162196-wq/Java-DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/khushi162196-wq/Java-DSA/tree/master/0022-generate-parentheses) |
 | [0205-isomorphic-strings](https://github.com/khushi162196-wq/Java-DSA/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/khushi162196-wq/Java-DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/khushi162196-wq/Java-DSA/tree/master/0212-word-search-ii) |
@@ -209,6 +211,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/khushi162196-wq/Java-DSA/tree/master/0022-generate-parentheses) |
 | [0212-word-search-ii](https://github.com/khushi162196-wq/Java-DSA/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/khushi162196-wq/Java-DSA/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/khushi162196-wq/Java-DSA/tree/master/0257-binary-tree-paths) |
@@ -468,5 +471,6 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/khushi162196-wq/Java-DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/khushi162196-wq/Java-DSA/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/khushi162196-wq/Java-DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 <!---LeetCode Topics End-->
