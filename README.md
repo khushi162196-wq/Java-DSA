@@ -299,6 +299,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/khushi162196-wq/Java-DSA/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/khushi162196-wq/Java-DSA/tree/master/0061-rotate-list) |
 | [0203-remove-linked-list-elements](https://github.com/khushi162196-wq/Java-DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/khushi162196-wq/Java-DSA/tree/master/0206-reverse-linked-list) |
@@ -307,6 +308,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/khushi162196-wq/Java-DSA/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/khushi162196-wq/Java-DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/khushi162196-wq/Java-DSA/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/khushi162196-wq/Java-DSA/tree/master/0224-basic-calculator) |
@@ -336,6 +338,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/khushi162196-wq/Java-DSA/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/khushi162196-wq/Java-DSA/tree/master/0048-rotate-image) |
 | [0224-basic-calculator](https://github.com/khushi162196-wq/Java-DSA/tree/master/0224-basic-calculator) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/khushi162196-wq/Java-DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
