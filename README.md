@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/khushi162196-wq/Java-DSA/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/khushi162196-wq/Java-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0048-rotate-image](https://github.com/khushi162196-wq/Java-DSA/tree/master/0048-rotate-image) |
 | [0088-merge-sorted-array](https://github.com/khushi162196-wq/Java-DSA/tree/master/0088-merge-sorted-array) |
 | [0198-house-robber](https://github.com/khushi162196-wq/Java-DSA/tree/master/0198-house-robber) |
@@ -59,6 +60,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/khushi162196-wq/Java-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0209-minimum-size-subarray-sum](https://github.com/khushi162196-wq/Java-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/khushi162196-wq/Java-DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/khushi162196-wq/Java-DSA/tree/master/0240-search-a-2d-matrix-ii) |
@@ -263,6 +265,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/khushi162196-wq/Java-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0190-reverse-bits](https://github.com/khushi162196-wq/Java-DSA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/khushi162196-wq/Java-DSA/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/khushi162196-wq/Java-DSA/tree/master/0215-kth-largest-element-in-an-array) |
