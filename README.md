@@ -350,6 +350,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/khushi162196-wq/Java-DSA/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/khushi162196-wq/Java-DSA/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/khushi162196-wq/Java-DSA/tree/master/0048-rotate-image) |
 | [0224-basic-calculator](https://github.com/khushi162196-wq/Java-DSA/tree/master/0224-basic-calculator) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/khushi162196-wq/Java-DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
