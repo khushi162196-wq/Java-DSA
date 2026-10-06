@@ -220,6 +220,7 @@
 | [0336-palindrome-pairs](https://github.com/khushi162196-wq/Java-DSA/tree/master/0336-palindrome-pairs) |
 | [0678-valid-parenthesis-string](https://github.com/khushi162196-wq/Java-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/khushi162196-wq/Java-DSA/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/khushi162196-wq/Java-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/khushi162196-wq/Java-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/khushi162196-wq/Java-DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/khushi162196-wq/Java-DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -368,6 +369,7 @@
 | [0321-create-maximum-number](https://github.com/khushi162196-wq/Java-DSA/tree/master/0321-create-maximum-number) |
 | [0678-valid-parenthesis-string](https://github.com/khushi162196-wq/Java-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/khushi162196-wq/Java-DSA/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/khushi162196-wq/Java-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/khushi162196-wq/Java-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/khushi162196-wq/Java-DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Counting
@@ -416,6 +418,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/khushi162196-wq/Java-DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0376-wiggle-subsequence](https://github.com/khushi162196-wq/Java-DSA/tree/master/0376-wiggle-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/khushi162196-wq/Java-DSA/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/khushi162196-wq/Java-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/khushi162196-wq/Java-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/khushi162196-wq/Java-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Binary Indexed Tree
@@ -501,6 +504,7 @@
 | [0032-longest-valid-parentheses](https://github.com/khushi162196-wq/Java-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/khushi162196-wq/Java-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/khushi162196-wq/Java-DSA/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/khushi162196-wq/Java-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/khushi162196-wq/Java-DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Manacher
 |  |
