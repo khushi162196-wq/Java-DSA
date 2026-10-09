@@ -224,6 +224,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/khushi162196-wq/Java-DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/khushi162196-wq/Java-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/khushi162196-wq/Java-DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/khushi162196-wq/Java-DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/khushi162196-wq/Java-DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Backtracking
 |  |
@@ -375,6 +376,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/khushi162196-wq/Java-DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/khushi162196-wq/Java-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/khushi162196-wq/Java-DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/khushi162196-wq/Java-DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Counting
 |  |
 | ------- |
@@ -423,6 +425,7 @@
 | [0678-valid-parenthesis-string](https://github.com/khushi162196-wq/Java-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/khushi162196-wq/Java-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/khushi162196-wq/Java-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/khushi162196-wq/Java-DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/khushi162196-wq/Java-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Binary Indexed Tree
 |  |
@@ -510,6 +513,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/khushi162196-wq/Java-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/khushi162196-wq/Java-DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/khushi162196-wq/Java-DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/khushi162196-wq/Java-DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Manacher
 |  |
 | ------- |
