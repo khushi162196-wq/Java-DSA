@@ -53,6 +53,7 @@
 | [1301-number-of-paths-with-max-score](https://github.com/khushi162196-wq/Java-DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/khushi162196-wq/Java-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/khushi162196-wq/Java-DSA/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/khushi162196-wq/Java-DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/khushi162196-wq/Java-DSA/tree/master/2817-minimum-absolute-difference-between-elements-with-constraint) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/khushi162196-wq/Java-DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/khushi162196-wq/Java-DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -498,6 +499,7 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/khushi162196-wq/Java-DSA/tree/master/1291-sequential-digits) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/khushi162196-wq/Java-DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Number Theory
 |  |
 | ------- |
