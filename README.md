@@ -55,6 +55,7 @@
 | [2333-minimum-sum-of-squared-difference](https://github.com/khushi162196-wq/Java-DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/khushi162196-wq/Java-DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/khushi162196-wq/Java-DSA/tree/master/2817-minimum-absolute-difference-between-elements-with-constraint) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/khushi162196-wq/Java-DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/khushi162196-wq/Java-DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/khushi162196-wq/Java-DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/khushi162196-wq/Java-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -143,6 +144,7 @@
 | [0299-bulls-and-cows](https://github.com/khushi162196-wq/Java-DSA/tree/master/0299-bulls-and-cows) |
 | [0336-palindrome-pairs](https://github.com/khushi162196-wq/Java-DSA/tree/master/0336-palindrome-pairs) |
 | [1331-rank-transform-of-an-array](https://github.com/khushi162196-wq/Java-DSA/tree/master/1331-rank-transform-of-an-array) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/khushi162196-wq/Java-DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/khushi162196-wq/Java-DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Depth-First Search
 |  |
@@ -439,12 +441,14 @@
 | [0218-the-skyline-problem](https://github.com/khushi162196-wq/Java-DSA/tree/master/0218-the-skyline-problem) |
 | [0307-range-sum-query-mutable](https://github.com/khushi162196-wq/Java-DSA/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/khushi162196-wq/Java-DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/khushi162196-wq/Java-DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Segment Tree
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/khushi162196-wq/Java-DSA/tree/master/0218-the-skyline-problem) |
 | [0307-range-sum-query-mutable](https://github.com/khushi162196-wq/Java-DSA/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/khushi162196-wq/Java-DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/khushi162196-wq/Java-DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Sweep Line
 |  |
 | ------- |
